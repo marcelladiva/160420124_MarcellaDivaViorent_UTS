@@ -2,31 +2,49 @@
   {
     "id": "1",
     "name": "Pentingnya Pemberian Vaksin Campak",
-    "photoUrl": "http://192.168.1.121/anmp/img/ARTIKEL/1/1.jpg",
+    "photoUrl": "http://10.0.2.2/anmp/img/ARTIKEL/1/1.jpg",
     "detail": "Ini Alasan Pentingnya Pemberian Vaksin Campak Pada Anak: Yang pertama adalah Mencegah penyebaran penyakit campak. Kedua, Mencegah komplikasi yang serius. Ketiga, Membantu mencapai herd immunity. Keempat, Vaksin campak aman dan efektif. Campak termasuk penyakit menular, karenanya penting untuk melakukan vaksin campak pada anak sebagai langkah pencegahan."
   },
   {
     "id": "2",
     "name": "Waspada, Ini 4 Gangguan Kesehatan Akibat Heat Stroke",
-    "photoUrl": "http://192.168.1.121/anmp/img/ARTIKEL/2/2.jpg",
+    "photoUrl": "http://10.0.2.2/anmp/img/ARTIKEL/2/2.jpg",
     "detail": "Heat stroke merupakan masalah kesehatan yang terjadi ketika seseorang terpapar cuaca panas yang ekstrem. Kondisi ini dapat menimbulkan komplikasi misalnya ARDS, gangguan pada otak seperti pingsan dan pembengkakan otak, gagal ginjal, dan kematian."
   },
   {
     "id": "3",
     "name": "3 Tanda Holiday Blues setelah Libur Lebaran",
-    "photoUrl": "http://192.168.1.121/anmp/img/ARTIKEL/3/3.jpg",
+    "photoUrl": "http://10.0.2.2/anmp/img/ARTIKEL/3/3.jpg",
     "detail": "Libur Lebaran sudah berakhir, saatnya kembali ke rutinitas harian. Namun, waspada tanda-tanda holiday blues setelah libur Lebaran yang mungkin terjadi. Tanda Holiday Blues : Mengalami rasa cemas berlebihan, Kehilangan motivasi untuk melakukan kegiatan, Perubahan suasana hati menjadi lebih buruk"
   },
   {
     "id": "4",
     "name": "Cara Menghitung SPF dalam Penggunaan Sunscreen",
-    "photoUrl": "http://192.168.1.121/anmp/img/ARTIKEL/4/4.jpg",
+    "photoUrl": "http://10.0.2.2/anmp/img/ARTIKEL/4/4.jpg",
     "detail": "Setiap orang perlu tahu cara menghitung SPF yang diberikan pada sunscreen, untuk mendapatkan perlindungan dari sinar matahari dan mencegah risiko kanker kulit akibat sinar UV. Tingkat perlindungan dari sunscreen: Rendah SPF dibawah 15, Sedang SPF 15-29, Tinggi SPF 30-49, Sangat tinggi SPF lebih dari 50."
   },
   {
     "id": "5",
     "name": "Begini Cara Merawat Mata dengan Pola Makan Sehat",
-    "photoUrl": "http://192.168.1.121/anmp/img/ARTIKEL/5/5.jpg",
+    "photoUrl": "http://10.0.2.2/anmp/img/ARTIKEL/5/5.jpg",
     "detail": "Pola makan sehat bisa menjadi salah satu cara merawat mata. Misalnya dengan mengonsumsi ikan, sayuran berdaun hijau, dan buah-buahan segar. Cara Merawat Mata dengan Konsumsi Makanan Sehat Untuk merawat kesehatan mata, membutuhkan banyak jenis antioksidan. Seperti lutein, zeaxanthin, vitamin A, C dan E, beta karoten, asam lemak omega-3, dan zink."
+  },
+  {
+    "id": "6",
+    "name": "Cegah Stres, Ini 5 Cara Menyikapi Pasangan yang Selingkuh",
+    "photoUrl": "http://10.0.2.2/anmp/img/ARTIKEL/6/6.jpg",
+    "detail": "Selingkuh adalah masalah besar yang dapat berujung pada berakhirnya hubungan begitu saja dan menyebabkan stres. Kamu bisa menyikapinya dengan meminta bantuan dari ahlinya. Cara menyikapi : Menerima Perasaan Sendiri, Jangan Menyalahkan Diri Sendiri, Jangan Melakukan Balas Dendam, Lebih Merawat dan Memperhatikan Diri Sendiri, dan Jangan Saling Menyalahkan"
+  },
+  {
+    "id": "7",
+    "name": "Jarang Diketahui, Ini 6 Penyebab Jari Tangan Bengkak",
+    "photoUrl": "http://10.0.2.2/anmp/img/ARTIKEL/7/7.jpg",
+    "detail": "Jari tangan bengkak disebut juga di dunia medis dengan daktilis, yaitu kondisi yang terjadi ketika air tertahan di bagian jari tangan atau kaki sehingga menyebabkan pembengkakan. Kondisi fisik terjadi sebagai gejala penyakit lain yang lebih serius. Contohnya: Arthritis atau radang sendi, AutoImun, TBC, Sifilis, Infeksi bakteri, dan alergi"
+  },
+  {
+    "id": "8",
+    "name": "Orang Tua Mengidap Gangguan Narsistik, Ini Dampak pada Anak",
+    "photoUrl": "http://10.0.2.2/anmp/img/ARTIKEL/8/8.jpg",
+    "detail": "Pola asuh orang tua akan sangat berpengaruh kepada kondisi mental anak saat tumbuh besar. Orang tua yang memiliki gangguan narsistik akan cenderung menyebabkan masalah kepercayaan diri pada anak. Dampak: Rasa percaya diri yang rendah, Sulit mengekspresikan diri, Menjadi people-pleaser"
   }
 ]
