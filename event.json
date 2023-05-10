@@ -1,56 +1,56 @@
 [
   {
     "id" : "1",
-		"name" : "Solusi Masalah Menyusui dengan Hypnobreastfeeding",
-		"photoUrl" : "http://10.0.2.2/anmp/img/EVENT/ev1.jpg",
-		"detail" : "Agar produksi ASI baik dan tujuan memberikan ASI eksklusif tercapai, Anda harus tetap positif. Untuk membantu Anda menyusui dengan lancar, ikuti workshop Hypnobreastfeeding online pada:",
-		"hari" : "Sabtu, 13 Mei 2023",
-		"pukul" : "10:00 - 12:00 WIB",
-		"biaya" : "Gratis"
+	"name" : "Solusi Masalah Menyusui dengan Hypnobreastfeeding",
+	"photoUrl" : "http://10.0.2.2/anmp/img/EVENT/ev1.jpg",
+	"detail" : "Agar produksi ASI baik dan tujuan memberikan ASI eksklusif tercapai, Anda harus tetap positif. Untuk membantu Anda menyusui dengan lancar, ikuti workshop Hypnobreastfeeding online pada:",
+	"hari" : "Sabtu, 13 Mei 2023",
+	"pukul" : "10:00 - 12:00 WIB",
+	"biaya" : "Gratis"
   },
   {
     "id" : "2",
-		"name" : "Melahirkan Tanpa Sakit dengan Hypnobirthing",
-		"photoUrl" : "http://10.0.2.2/anmp/img/EVENT/ev2.jpg",
-		"detail" : "Takut dengan proses persalinan? Yuk, ikuti workshop online ini untuk membantu Mums lebih siap menghadapi persalinan pada:",
-		"hari" : "Jumat, 12 Mei 2023",
-		"pukul" : "10.00 - 12.00 WIB",
-		"biaya" : "Gratis"
+	"name" : "Melahirkan Tanpa Sakit dengan Hypnobirthing",
+	"photoUrl" : "http://10.0.2.2/anmp/img/EVENT/ev2.jpg",
+	"detail" : "Takut dengan proses persalinan? Yuk, ikuti workshop online ini untuk membantu Mums lebih siap menghadapi persalinan pada:",
+	"hari" : "Jumat, 12 Mei 2023",
+	"pukul" : "10.00 - 12.00 WIB",
+	"biaya" : "Gratis"
   },
   {
     "id" : "3",
-		"name" : "Atasi Kecanduan Gadget Pada Anak",
-		"photoUrl" : "http://10.0.2.2/anmp/img/EVENT/ev3.jpg",
-		"detail" : "Si Kecil tidak bisa lepas dari gadgetnya. Kira-kira bagaimana cara mengatasinya, ya? Yuk cari tahu dengan cara mengikuti event Atasi Kecanduan Gadget Pada Anak di perpustakaan universitas surabaya.",
-		"hari" : "Senin, 15 Mei 2023",
-		"pukul" : "09.00 - 12.00 WIB",
-		"biaya" : "Rp50.000 (Termasuk makan siang, voucher free eye strain treatment, goodie bag)"
+	"name" : "Atasi Kecanduan Gadget Pada Anak",
+	"photoUrl" : "http://10.0.2.2/anmp/img/EVENT/ev3.jpg",
+	"detail" : "Si Kecil tidak bisa lepas dari gadgetnya. Kira-kira bagaimana cara mengatasinya, ya? Yuk cari tahu dengan cara mengikuti event Atasi Kecanduan Gadget Pada Anak di perpustakaan universitas surabaya.",
+	"hari" : "Senin, 15 Mei 2023",
+	"pukul" : "09.00 - 12.00 WIB",
+	"biaya" : "Rp50.000 (Termasuk makan siang, voucher free eye strain treatment, goodie bag)"
   },
   {
     "id" : "4",
-		"name" : "Cara Merawat Kulit Sensitif Bayi",
-		"photoUrl" : "http://10.0.2.2/anmp/img/EVENT/ev4.jpg",
-		"detail" : "Event Teman Bumil balik lagi nih! membahas seputar kulit sensitif bayi, apa yang Mums lakukan sebagai perawatannya? Sudah pasti bukan hal yang mudah merawat kulit bayi yang sensitif, jangan panik! Ikut event online ini yuk!",
-		"hari" : "Sabtu, 20 Mei 2023",
-		"pukul" : "09.00 - 12.00 WIB",
-		"biaya" : "Gratis"
+	"name" : "Cara Merawat Kulit Sensitif Bayi",
+	"photoUrl" : "http://10.0.2.2/anmp/img/EVENT/ev4.jpg",
+	"detail" : "Event Teman Bumil balik lagi nih! membahas seputar kulit sensitif bayi, apa yang Mums lakukan sebagai perawatannya? Sudah pasti bukan hal yang mudah merawat kulit bayi yang sensitif, jangan panik! Ikut event online ini yuk!",
+	"hari" : "Sabtu, 20 Mei 2023",
+	"pukul" : "09.00 - 12.00 WIB",
+	"biaya" : "Gratis"
   },
   {
     "id" : "5",
-		"name" : "Memaksimalkan Bonding Time dengan Anak",
-		"photoUrl" : "http://10.0.2.2/anmp/img/EVENT/ev5.jpg",
-		"detail" : "Sebenarnya seberapa penting sih bonding time dengan si Kecil? Cari tahu yuk Mums jawabannya dengan cara mengikuti event Memaksimalkan Bonding Time Dengan Anak di lapangan brawijaya pada:",
-		"hari" : "Minggu, 21 Mei 2023",
-		"pukul" : "13.00 - 15.00 WIB",
-		"biaya" : "Rp50.000 (Termasuk makan siang dan goodie bag)"
+	"name" : "Memaksimalkan Bonding Time dengan Anak",
+	"photoUrl" : "http://10.0.2.2/anmp/img/EVENT/ev5.jpg",
+	"detail" : "Sebenarnya seberapa penting sih bonding time dengan si Kecil? Cari tahu yuk Mums jawabannya dengan cara mengikuti event Memaksimalkan Bonding Time Dengan Anak di lapangan brawijaya pada:",
+	"hari" : "Minggu, 21 Mei 2023",
+	"pukul" : "13.00 - 15.00 WIB",
+	"biaya" : "Rp50.000 (Termasuk makan siang dan goodie bag)"
   },
   {
     "id" : "6",
-		"name" : "Penuhi Kebutuhan Nutrisi Saat Hamil",
-		"photoUrl" : "http://10.0.2.2/anmp/img/EVENT/ev6.jpg",
-		"detail" : "ikuti workshop online pada:",
-		"hari" : "Minggu, 21 Mei 2023",
-		"pukul" : "07.00 - 09.00 WIB",
-		"biaya" : "Rp20.000 (Termasuk sarapan dan goodie bag)"
+	"name" : "Penuhi Kebutuhan Nutrisi Saat Hamil",
+	"photoUrl" : "http://10.0.2.2/anmp/img/EVENT/ev6.jpg",
+	"detail" : "ikuti workshop online pada:",
+	"hari" : "Minggu, 21 Mei 2023",
+	"pukul" : "07.00 - 09.00 WIB",
+	"biaya" : "Rp20.000 (Termasuk sarapan dan goodie bag)"
   }
 ]
