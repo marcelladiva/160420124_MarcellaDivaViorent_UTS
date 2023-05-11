@@ -1,0 +1,4 @@
+Parse error on line 5:
+...5/5.jpg", "detail": "Pola makan sehat bi
+-----------------------^
+Expecting 'STRING', 'NUMBER', 'NULL', 'TRUE', 'FALSE', '{', '[', got 'undefined'

@@ -1,0 +1,48 @@
+1.
+Nama	: Dr. dr. Joni Wahyuhadi, Sp.BS
+Detail	: Dr. dr. Joni Wahyuhadi, Sp.BS adalah anggota dari Surabaya Neuroscience Institute (SNeI). Dokter Joni lulus menjadi dokter spesialis bedah saraf pada tahun 2000 setelah menyelesaikan pendidikan spesialisnya di Universitas Airlangga Surabaya. Dokter Joni melanjutakan gelar Doktoralnya di Universitas Airlangga dan lulus pada tahun 2010.
+HariPraktek : Senin-Rabu
+JamPraktek : 09.00-14.00 
+
+2.
+Nama	: dr. Inggriani Tobarasi, Sp.A, M.Kes
+Detail	: dr. Inggriani Tobarasi, Sp.A, M.Kes adalah dokter poli anak yang telah menempuh pendidikan S1 di Fakultas Kedokteran Universitas Indonesia lulus pada tahun 2002 dan S2 di Fakultas Kedokteran Universitas Sriwijaya lulus pada tahun 2012.
+HariPraktek : Senin - Sabtu
+JamPraktek  : 10.00-14.00
+
+3.
+Nama	: dr. Tedy Apriawan, Sp.BS
+Detail	: dr. Tedy Apriawan, Sp.BS adalah salah satu anggota dari Surabaya Neuroscience Institute (SNeI). Dokter Tedy lulus menjadi dokter spesialis bedah saraf pada tahun 2013 setelah dokter Tedy menyelesaikan pendidikan spesialisnya di Universitas Airlangga Surabaya.
+HariPraktek : Senin dan Selasa
+JamPraktek  : 13.00-17.00
+
+4.
+Nama	: dr. Rika Andriani, Sp.M
+Detail	: dr. Rika Andriani, Sp.M adalah dokter poli mata yang telah menempuh pendidikan S1 di Fakultas Kedokteran Universitas Trisakti, lulus tahun 2011 dan S2 di Pendidikan Dokter Spesialis Mata Universitas Padjadjaran, lulus tahun 2018.
+HariPraktek : Senin - Sabtu
+JamPraktek  : 09.00-16.00
+
+5.
+Nama	: dr. Ananda Haris, Sp.BS
+Detail	: dr. Ananda Haris, Sp.BS adalah salah satu anggota dari Surabaya Neuroscience Institute (SNeI). Dokter Haris lulus menjadi dokter spesialis bedah saraf pada tahun 2007 setelah dokter Wihasto menyelesaikan pendidikan spesialisnya di Universitas Airlangga Surabaya.
+HariPraktek : Senin dan Rabu
+JamPraktek  : 09.00-15.00
+
+6.
+Nama	: dr. Putri Yeantesa, SpJP-FIHA
+Detail	: dr. Putri Yeantesa, SpJP-FIHA adalah dokter poli jantung yang telah menempuh pendidikan S1 dan S2 di  Universitas andalas pada tahun 2009 dan 2019.
+HariPraktek : Selasa-Jumat
+JamPraktek  : 15.00-18.00
+
+7.
+Nama	: Dr. dr. Rahadian Indarto Susilo, Sp.BS
+Detail	: Dr. dr. Rahadian Indarto Susilo, Sp.BS adalah anggota dari Surabaya Neuroscience Institute (SNeI). Dokter Rahadian lulus menjadi dokter spesialis bedah saraf pada tahun 2009 setelah menyelesaikan pendidikan spesialis di Universitas Airlangga, melanjutakan gelar Doktoralnya di Universitas Airlangga dan lulus pada tahun 2019 hingga memiliki sub spesialis divisi Neuro Onkology / Tumor Otak. 
+HariPraktek : Kamis-Sabtu
+JamPraktek  : 07.00-11.00
+
+8.
+Nama	: dr. Gina Frances Agustine Rotty, Sp.OG
+Detail	: dr. Gina Frances Agustine Rotty, Sp.OG adalah dokter klinik Kebidanan dan Penyakit Kandungan yang telah menempuh pendidikan Dokter Umum di Fakultas Kedokteran Universitas Sam Ratulangi tahun 1992 dan Dokter Spesialis Obstetri Ginekologi di Fakultas Kedokteran Universitas Sam Ratulangi tahun 2005
+HariPraktek : Rabu-Sabtu
+JamPraktek  : 12.00-14.00
+
